@@ -13,7 +13,6 @@ The project consists of configuring a Windows system to include enhanced logging
 - <b>Kibana</b>
 - <b>Winlogbeat</b>
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
 
 <h2>Environments Used </h2>
 
