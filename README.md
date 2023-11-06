@@ -14,6 +14,7 @@ The project consists of configuring a Windows system to include enhanced logging
 - <b>Winlogbeat</b>
 - <b>PowerShell</b>
 - <b>KQL</b>
+- <b>Sysmon</b>
 
 <h2>Environments Used </h2>
 
