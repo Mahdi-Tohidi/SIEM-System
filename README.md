@@ -18,7 +18,7 @@ The project consists of configuring a Windows system to include enhanced logging
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (22H2)
+- <b>Windows 10</b> (22H2)
 
 <h2>Program walk-through:</h2>
 
