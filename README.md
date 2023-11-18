@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/Dun6cbtvHQ4)
 
 <h2>Description</h2>
-The project consists of configuring a Windows system to include enhanced logging for User logon/logoff, User process execution, and Network traffic. This SIEM system will be created using an Elasticsearch stack which allows for ingestion, visualization, and searching of log sources.
+This project consists of configuring a Windows system to include enhanced logging for User logon/logoff, User process execution, and Network traffic. This SIEM system will be created using an Elasticsearch stack which allows for ingestion, visualization, and searching of log sources.
 <br />
 
 
